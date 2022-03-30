@@ -4,6 +4,7 @@ description: 'Evaluation of Predictive Models: Assessing calibration and discrim
   Examples.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-951j-medical-decision-support-spring-2003/793d65aa3598457f9b4df45158c4ade3_lecture13.pdf
 file_type: application/pdf
+parent_uid: abc75af1-69a8-c8df-341d-0cd268040dbc
 resourcetype: Document
 title: lecture13.pdf
 uid: 793d65aa-3598-457f-9b4d-f45158c4ade3
